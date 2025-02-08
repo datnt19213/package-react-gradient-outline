@@ -2,7 +2,7 @@
 
 A React component that adds a customizable animated gradient outline effect to any element.
 
-###### [Demo](https://tailwindcss.com/docs/installation/using-postcss)
+###### [Demo](https://react-gradient-outline-demo-xaad.vercel.app/)
 
 ## Installation
 
