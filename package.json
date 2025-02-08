@@ -1,0 +1,61 @@
+{
+  "name": "gradient-outline",
+  "version": "1.0.2",
+  "description": "A React gradient outline component",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "yarn build"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^18.0.0",
+    "tailwindcss": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datnt19213/package-react-gradient-outline.git"
+  },
+  "keywords": [
+    "react",
+    "gradient",
+    "outline",
+    "ui",
+    "component",
+    "react-component",
+    "gradient-component",
+    "gradient-outline",
+    "react-gradient-outline",
+    "gradient-component-library",
+    "react-gradient-component-library",
+    "gradient-library",
+    "react-gradient-library",
+    "gradient-ui",
+    "react-gradient-ui",
+    "gradient-ui-library",
+    "react-gradient-ui-library",
+    "gradient-component-library",
+    "react-component-library",
+    "react-gradient-component-library",
+    "react-gradient-ui-library",
+    "react-gradient-outline"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^19.0.8",
+    "rollup": "^4.34.6",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
